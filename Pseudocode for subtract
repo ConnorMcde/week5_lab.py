@@ -1,0 +1,18 @@
+"""pseudocode task week 5"""
+
+"""
+START
+ FUNCTION subtract(a, b)
+  if b is equal to 0:
+   PRINT "Error: Cannot subtract by zero."
+   RETURN None
+  elif b > a:
+   PRINT "U have subtracted more than needed"
+   result = a - b
+   RETURN result
+  ELSE:
+   result = a - b
+   RETURN result
+  END FUNCTION
+END
+"""
